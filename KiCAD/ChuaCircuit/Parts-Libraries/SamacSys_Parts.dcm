@@ -12,4 +12,10 @@ K
 F https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-SFU2/DSASFU100032159.pdf
 $ENDCMP
 #
+$CMP TL082ACP
+D General usage dual op-amp,TL082ACP DIP8 Texas Instruments TL082ACP, Dual Op Amp, 3MHz, 8-Pin PDIP
+K
+F http://www.ti.com/lit/ds/symlink/tl081a.pdf
+$ENDCMP
+#
 #End Doc Library
