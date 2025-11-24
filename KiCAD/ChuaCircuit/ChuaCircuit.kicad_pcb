@@ -41,14 +41,14 @@
 			(layerselection 0x00000000_00000000_55555555_5755f5ff)
 			(plot_on_all_layers_selection 0x00000000_00000000_00000000_00000000)
 			(disableapertmacros no)
-			(usegerberextensions no)
+			(usegerberextensions yes)
 			(usegerberattributes yes)
-			(usegerberadvancedattributes yes)
-			(creategerberjobfile yes)
+			(usegerberadvancedattributes no)
+			(creategerberjobfile no)
 			(dashed_line_dash_ratio 12.000000)
 			(dashed_line_gap_ratio 3.000000)
 			(svgprecision 4)
-			(plotframeref no)
+			(plotframeref yes)
 			(mode 1)
 			(useauxorigin no)
 			(hpglpennumber 1)
@@ -69,12 +69,12 @@
 			(hidednponfab no)
 			(sketchdnponfab yes)
 			(crossoutdnponfab yes)
-			(subtractmaskfromsilk no)
+			(subtractmaskfromsilk yes)
 			(outputformat 1)
 			(mirror no)
-			(drillshape 1)
+			(drillshape 0)
 			(scaleselection 1)
-			(outputdirectory "")
+			(outputdirectory "ChuaCircuit-gerbers/")
 		)
 	)
 	(net 0 "")
@@ -298,8 +298,8 @@
 		(at 150.5 92.5)
 		(descr "Through hole straight pin header, 1x01, 2.54mm pitch, single row")
 		(tags "Through hole pin header THT 1x01 2.54mm single row")
-		(property "Reference" "CHUA_OUT1"
-			(at -2.5 -2.5 0)
+		(property "Reference" "CHUA_OUT"
+			(at -3 -2 0)
 			(layer "F.SilkS")
 			(uuid "35e21f9b-2e83-4cb1-8d45-da899f5e4bb0")
 			(effects
@@ -2959,8 +2959,8 @@
 		(at 131 92.5)
 		(descr "Through hole straight pin header, 1x01, 2.54mm pitch, single row")
 		(tags "Through hole pin header THT 1x01 2.54mm single row")
-		(property "Reference" "-VCC1"
-			(at 0.5 -2.5 0)
+		(property "Reference" "-VCC"
+			(at -0.5 -2.5 0)
 			(layer "F.SilkS")
 			(uuid "c06a37ee-5d5a-4351-b9d2-ef49fe16ec45")
 			(effects
@@ -4062,7 +4062,7 @@
 		(at 126.5 112)
 		(descr "Through hole straight pin header, 1x01, 2.54mm pitch, single row")
 		(tags "Through hole pin header THT 1x01 2.54mm single row")
-		(property "Reference" "Y1"
+		(property "Reference" "Y"
 			(at 0 -2.38 0)
 			(layer "F.SilkS")
 			(uuid "2c7d36e7-b8ea-4771-894c-79ce4a806bac")
@@ -4304,7 +4304,7 @@
 		(at 126.5 102)
 		(descr "Through hole straight pin header, 1x01, 2.54mm pitch, single row")
 		(tags "Through hole pin header THT 1x01 2.54mm single row")
-		(property "Reference" "GND2"
+		(property "Reference" "GND"
 			(at 0 -2.38 0)
 			(layer "F.SilkS")
 			(uuid "e9882cc6-9274-4062-8c07-7b54854aecb4")
@@ -5407,8 +5407,8 @@
 		(at 126.5 92.5)
 		(descr "Through hole straight pin header, 1x01, 2.54mm pitch, single row")
 		(tags "Through hole pin header THT 1x01 2.54mm single row")
-		(property "Reference" "+VCC1"
-			(at -0.5 -2.5 0)
+		(property "Reference" "+VCC"
+			(at 0 3 0)
 			(layer "F.SilkS")
 			(uuid "89bd2a07-fe78-4dbb-a4ec-73da07fdf1a3")
 			(effects
@@ -6246,7 +6246,7 @@
 		(at 126.5 117)
 		(descr "Through hole straight pin header, 1x01, 2.54mm pitch, single row")
 		(tags "Through hole pin header THT 1x01 2.54mm single row")
-		(property "Reference" "Z1"
+		(property "Reference" "Z"
 			(at 0 -2.38 0)
 			(layer "F.SilkS")
 			(uuid "199c1a23-51d8-4629-8d6d-12aed626c525")
@@ -6687,7 +6687,7 @@
 		(at 126.5 107)
 		(descr "Through hole straight pin header, 1x01, 2.54mm pitch, single row")
 		(tags "Through hole pin header THT 1x01 2.54mm single row")
-		(property "Reference" "X1"
+		(property "Reference" "X"
 			(at 0 -2.38 0)
 			(layer "F.SilkS")
 			(uuid "dd883324-6c67-4fe7-99d0-df244fa309eb")

@@ -4619,6 +4619,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C31850"
+			(at 185.42 76.2 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "e8b4f84b-5aa5-4319-bcca-c445312332f7")
 		)
@@ -4689,6 +4698,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C21190"
+			(at 95.25 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "55a01d31-061c-4f33-a0d8-e0378ead4428")
 		)
@@ -4748,6 +4766,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 161.29 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C24452"
 			(at 161.29 157.48 0)
 			(effects
 				(font
@@ -4826,6 +4853,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C170182"
+			(at 120.65 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "8a2bb8ae-9906-4aac-a7eb-657f7e225093")
 		)
@@ -4886,6 +4922,15 @@
 			)
 		)
 		(property "Description" "Quad JFET-Input Operational Amplifiers, DIP-14/SOIC-14/SSOP-14"
+			(at 186.69 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C11130"
 			(at 186.69 88.9 0)
 			(effects
 				(font
@@ -4997,6 +5042,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C389113"
+			(at 125.73 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "eb114ac8-b55b-46e3-b3ba-0f75c80e7ac5")
 		)
@@ -5058,6 +5112,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 172.72 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C4190"
 			(at 172.72 109.22 0)
 			(effects
 				(font
@@ -5266,6 +5329,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C13460"
+			(at 158.75 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "8"
 			(uuid "4d02a5d4-88ae-4ea4-adf9-97500e5eed2b")
 		)
@@ -5345,6 +5417,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 95.25 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C21190"
 			(at 95.25 95.25 0)
 			(effects
 				(font
@@ -5554,6 +5635,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C22962"
+			(at 165.1 99.06 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "05ae316e-c6df-41e2-a898-560cc3e32ae5")
 		)
@@ -5681,6 +5771,15 @@
 			)
 		)
 		(property "Description" "Quad JFET-Input Operational Amplifiers, DIP-14/SOIC-14/SSOP-14"
+			(at 82.55 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C11130"
 			(at 82.55 76.2 0)
 			(effects
 				(font
@@ -5851,6 +5950,15 @@
 			)
 		)
 		(property "Description" "Quad JFET-Input Operational Amplifiers, DIP-14/SOIC-14/SSOP-14"
+			(at 107.95 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C11130"
 			(at 107.95 100.33 0)
 			(effects
 				(font
@@ -6031,6 +6139,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C22399611"
+			(at 144.78 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "0a352282-8a48-470e-ba59-55ac4f4b132a")
 		)
@@ -6093,6 +6210,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 95.25 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C22369795"
 			(at 95.25 69.85 0)
 			(effects
 				(font
@@ -6234,6 +6360,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C389113"
+			(at 168.91 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "a6e4b4ab-f96c-4468-92af-95df9a725108")
 		)
@@ -6359,6 +6494,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 78.74 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C24452"
 			(at 78.74 157.48 0)
 			(effects
 				(font
@@ -6567,6 +6711,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C389113"
+			(at 86.36 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "dd6af2b7-67be-4c5b-b873-e04d7d2ca7b3")
 		)
@@ -6701,6 +6854,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C22962"
+			(at 165.1 76.2 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "ef627de8-8ca8-4866-89c4-41acfbe86bc4")
 		)
@@ -6760,6 +6922,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 45.72 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C389113"
 			(at 45.72 157.48 0)
 			(effects
 				(font
@@ -6829,6 +7000,15 @@
 			)
 		)
 		(property "Description" "Quad JFET-Input Operational Amplifiers, DIP-14/SOIC-14/SSOP-14"
+			(at 165.1 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C11130"
 			(at 165.1 88.9 0)
 			(effects
 				(font
@@ -6999,6 +7179,15 @@
 		)
 		(property "Description" "Resistor"
 			(at 185.42 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C31850"
+			(at 185.42 99.06 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7343,6 +7532,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C170182"
+			(at 95.25 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "5a55e95b-eae1-4220-871b-6f0bd8af2eec")
 		)
@@ -7402,6 +7600,15 @@
 			)
 		)
 		(property "Description" "Quad JFET-Input Operational Amplifiers, DIP-14/SOIC-14/SSOP-14"
+			(at 64.77 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C11130"
 			(at 64.77 149.86 0)
 			(effects
 				(font
@@ -7516,6 +7723,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C22978"
+			(at 179.07 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "7ff586a1-aeba-4a19-a8b8-4d2cbb977b94")
 		)
@@ -7576,6 +7792,15 @@
 			)
 		)
 		(property "Description" "Dual JFET-Input Operational Amplifiers, DIP-8/SOIC-8/SSOP-8"
+			(at 144.78 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C13460"
 			(at 144.78 149.86 0)
 			(effects
 				(font
@@ -7669,6 +7894,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C24452"
+			(at 118.11 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "e6fa817c-be70-4c34-a262-ae0275d68c32")
 		)
@@ -7728,6 +7962,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 38.1 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C24452"
 			(at 38.1 157.48 0)
 			(effects
 				(font
