@@ -5677,7 +5677,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "J1"
+		(property "Value" "Male_Header_1x1 2.54mm"
 			(at 76.708 132.842 90)
 			(effects
 				(font
@@ -5857,7 +5857,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "J1"
+		(property "Value" "Male_Header_1x1 2.54mm"
 			(at 55.372 132.588 90)
 			(effects
 				(font
@@ -7431,7 +7431,7 @@
 				)
 			)
 		)
-		(property "Value" "Male_Header_1x1"
+		(property "Value" "Male_Header_1x1 2.54mm"
 			(at 179.705 31.75 0)
 			(effects
 				(font

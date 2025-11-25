@@ -1,4 +1,4 @@
-26767317218227170
+26770845087298429
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -97285,6 +97285,20 @@ Integrated Circuit
 0
 8
 8
+SamacSys_Parts
+SOIC127P600X175-8N
+SO 8_
+Integrated Circuit
+0
+8
+8
+SamacSys_Parts
+SOIC127P600X175-14N
+TL084CDT-1
+Integrated Circuit
+0
+14
+14
 SamacSys_Parts
 TL082
 P (R-PDIP-T8)
